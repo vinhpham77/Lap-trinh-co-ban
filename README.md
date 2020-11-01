@@ -1,2 +1,2 @@
 # Lap-trinh-co-ban
-//buoi thuc hanh thu nhat
+//bai tap voi C
